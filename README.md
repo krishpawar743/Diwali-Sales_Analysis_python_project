@@ -20,29 +20,18 @@ This project analyzes **Diwali sales data** to understand customer purchasing be
 - Discover spending patterns based on occupation and marital status.
 - Visualize top-performing regions and customer types.
 
----
 
- 📊 Key Insights Covered
+## 📊 Key Insights Covered
 
-- Top-selling product categories and sub-categories
-- Gender and age-based spending trends
-- Occupation-wise contribution to revenue
-- Sales distribution across Indian states
-- Festival-based marketing opportunities
+Identified top-performing product categories and sub-categories driving sales.
+Analyzed gender-wise and age-wise spending patterns to understand customer behavior.
+Evaluated occupation-wise contribution to overall revenue.
+Mapped sales distribution across various Indian states to spot regional strengths.
+Highlighted festival seasons as high-potential marketing opportunities.
 
----
+## 🔧 Tools & Technologies Utilized
 
-🔧 Tools & Libraries Used
-
-- **Python**: Pandas, Matplotlib, Seaborn, NumPy
-- **Jupyter Notebook**: for analysis
-- **CSV**: as input dataset
-- **PDF Report**: for summarizing key findings
-
----
-
-▶️ How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/krishpawar743/Diwali-Sales_Analysis_python_project.git
+Python Libraries: Pandas (data manipulation), Matplotlib & Seaborn (data visualization), NumPy (numerical operations)
+Jupyter Notebook: Interactive environment for data analysis and visualization.
+CSV Dataset: Used as the primary data source.
+PDF Report: Compiled to present key business insights and visual summaries.
