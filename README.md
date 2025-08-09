@@ -2,8 +2,6 @@
 
 This project analyzes **Diwali sales data** to understand customer purchasing behavior, product performance, and regional trends during the festive season. The goal is to provide valuable business insights that can help companies improve marketing strategies and maximize sales during future festivals.
 
----
-
 📁 Project Structure
 
 - `Diwali_Sales_Analysis.ipynb` → Jupyter Notebook containing the full analysis.
@@ -11,9 +9,7 @@ This project analyzes **Diwali sales data** to understand customer purchasing be
 - `Diwali_Sales_Summary_Report.pdf` → Final summarized report with key insights and visuals.
 - `README.md` → Project overview and documentation.
 
----
-
-🎯 Objectives
+## 🎯 Objectives
 
 - Understand which product categories and sub-categories perform best.
 - Analyze customer demographics (age, gender, state) and purchasing power.
